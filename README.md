@@ -1,1 +1,5 @@
-"# mirea-gamedev-spaceinvaders" 
+# mirea-gamedev-spaceinvaders
+
+Клон Space Invaders
+
+Я не использовал unity bolt потому что с ним очень много проблем, часть которых наверняка связаны с тем, что я использую Linux (NixOS), но с ними у меня нет времени возиться, поэтому вот.
